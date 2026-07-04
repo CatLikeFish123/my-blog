@@ -5,7 +5,7 @@ export default defineConfig({
   description: "日常学习、前端、后端、生活碎碎念的知识沉淀",
   
   // 💡 重要：如果你的 GitHub 仓库名叫 my-wiki，这里记得改成 '/my-wiki/'
-  base: '/', 
+  base: '/my-blog/', 
 
   themeConfig: {
     // 头部导航栏
