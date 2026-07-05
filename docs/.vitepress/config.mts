@@ -26,6 +26,13 @@ export default defineConfig({
           ]
         },
         {
+          text: '🤖 AI 与大模型',
+          collapsed: false,
+          items: [
+            { text: 'LLM 核心概念', link: '/guide/ai/llm-core-concepts' }
+          ]
+        },
+        {
           text: '💻 技术笔记',
           collapsed: false, // 是否默认折叠
           items: [

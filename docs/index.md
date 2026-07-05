@@ -17,6 +17,10 @@ hero:
       link: https://github.com
 
 features:
+  - icon: 🤖
+    title: AI 与大模型
+    details: 用大白话讲透 Transformer、Attention、Agent 等 LLM 核心概念。
+    link: /guide/ai/llm-core-concepts
   - icon: ⚡️
     title: 快速响应
     details: 基于 Vite 和 Vue，带来极致的加载与阅读体验。
